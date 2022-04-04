@@ -27,7 +27,7 @@
 #Concepts:
 * **image captioning duh .**
 * **Transfer learning:** A technique used to benefit from models that were trained on problems and use the knowledge that these models learned to apply it to another but related problems for instance: ( knowledge gained from model used to recognise cars could also be used to recognise trucks) .  
-* **Cnn model:** A model used to extract  useful features from image using (Transfer learning)  . 
+* **Cnn model:** A model used to extract  useful features from image using (Transfer learning) :wink: . 
 * **Encoder, Decoder:** Main parts of Transformer model that encode the  learned features then decode  them back to words .
 * **Image caption module:** A Tensorflow Module that can take a path of the image then outputs the caption . 
 * **Tokenizer:** An object  used to transform plain text into sequence of integers that every sequence presents a text .
