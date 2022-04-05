@@ -11,7 +11,7 @@
 
 # Objective:
 
-**To build this kind of model that can generate a descriptive text about image that we provide** 
+**To build this kind of model that can generate a descriptive text about an image that we provide** 
 
 *for the sake of keeping things easy to understand I will use a Transformer architecture that was mentioned  in [Attention is all you need](https://arxiv.org/abs/1706.03762).*
 <img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" alt="drawing" style="width:400px"/>
