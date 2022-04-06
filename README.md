@@ -2,7 +2,7 @@
 
 **This project is about building an image captioning model using the Framework that we all love `TensorFlow` .**
 
-**I assume you have some basic knowledge of tensorflow if you don't  I advise you to visit [TensorFlow](https://www.tensorflow.org/overview) .**
+**I assume you have some basic knowledge of tensorflow if you don't  I advise you to visit [TensorFlow tutorials site](https://www.tensorflow.org/overview) .**
 
 # Contents:
 1. ***Objective***
