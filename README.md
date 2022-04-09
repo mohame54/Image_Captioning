@@ -40,7 +40,7 @@
 **Dataset:** I used `MSCOCO`  as my training dataset with size of 13GB for training and 6GB for validation, but I used a small portion of it .
 
 **The inputs:** The inputs are images and sequences, images converted into `float32 dtype` instead of `uint8 dtype` then its resized into (299,299,3) which is suitable for `EffcientNetB0` (the model used to extract the features)
-and sequences which are transformed forms of the captions cuz the computer understand only numbers not raw texts.
+and sequences which are transformed forms of the captions cuz the computer understands only numbers not raw texts.
 
 **Data pipeline:** The images captions are stored in a json file after extracting the captions and mapping each caption to its corresponding image then passing
 the mapping dict to `preprocess_inputs.py` which contains some utility functions to make the dataset (instance of tensorflow.data.Datasets),
