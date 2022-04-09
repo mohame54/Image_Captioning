@@ -50,8 +50,9 @@ prepare the tokenizer object for processing text and getting the maximum length 
 
 **Decoder:** Which is also in `layers.Transformer_layers.py` have the `Decoder` layer where the magic happens the decoder learns the best way to map the caption to the image depending on its content .
 
-**Image_caption:** The basic model of the transformer `Image_caption.py` that contains the basic function for loss and accuracy calculation .
-**caption_Module** includes `Caption_module.py`  contains the caption_maker `Tensorflow Module` that uses the `tf.function decorator(@)` to speed up the process and create the graph which is essential for production .
+**Image_caption:** The basic architecture of the transformer model `Image_caption.py` and also contains the basic function for loss and accuracy calculation .
+
+**caption_Module** includes `Caption_module.py`  contains the caption_maker `Tensorflow Module` that uses the `tf.function decorator(@)` to speed up the process and create tensorflow graph which is essential for production and deployment .
 
 
 
