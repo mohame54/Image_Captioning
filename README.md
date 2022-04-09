@@ -5,6 +5,8 @@
 **I assume you have some basic knowledge of tensorflow if you don't  I advise you to visit [TensorFlow tutorials site](https://www.tensorflow.org/overview) .**
 
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gMgU7lp7ijAog7WLWPyXpYZj-aLVmr1X?usp=sharing)
+**This colab is a demo for the project.** 
+
 # Contents:
 1. ***Objective***
 2. ***Concepts***
